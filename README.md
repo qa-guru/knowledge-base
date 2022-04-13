@@ -18,3 +18,14 @@
 <a href="https://t.me/qa_automation">Чат QA — Automation</a> |
 <a href="https://t.me/qa_guru_chat">Чат QA.GURU</a>
 </h4>
+
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
