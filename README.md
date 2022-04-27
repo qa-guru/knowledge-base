@@ -13,6 +13,7 @@
 6. [JUnit 5](https://github.com/qa-guru/knowledge-base/wiki/6.-JUnit-5)
 7. [Allure Reports](https://github.com/qa-guru/knowledge-base/wiki/7.-Allure-Reports)
 8. [Работа с файлами](https://github.com/qa-guru/knowledge-base/wiki/8.-%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8)
+9. [Selenide #1](https://github.com/qa-guru/knowledge-base/wiki/9.-Selenide-%231)
 
 ---
 
