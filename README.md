@@ -27,7 +27,6 @@
 20. [Мобильная автоматизация #1. Разрабатываем автотесты с Browserstack](https://github.com/qa-guru/knowledge-base/wiki/20.-Мобильная-автоматизация-%231.-Разрабатываем-автотесты-с-Browserstack)    
 
 ### Python:    
-Python:
 1. [Вводное занятие. Сразу к практике!](https://github.com/qa-guru/knowledge-base/wiki/1.-Вводное-занятие.-Сразу-к-практике!)
 2. [Погружаемся в инструментарий и библиотеки](https://github.com/qa-guru/knowledge-base/wiki/2.-Погружаемся-в-инструментарий-и-библиотеки)
 
