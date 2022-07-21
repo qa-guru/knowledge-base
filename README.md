@@ -30,6 +30,7 @@
 1. [Вводное занятие. Сразу к практике!](https://github.com/qa-guru/knowledge-base/wiki/1.-Вводное-занятие.-Сразу-к-практике!)
 2. [Погружаемся в инструментарий и библиотеки](https://github.com/qa-guru/knowledge-base/wiki/2.-Погружаемся-в-инструментарий-и-библиотеки)    
 3. [Git. GitHub. Погружаемся.](https://github.com/qa-guru/knowledge-base/wiki/3.-Git.-GitHub.-Погружаемся.)    
+4. [Основы Python](https://github.com/qa-guru/knowledge-base/wiki/4.-Основы-Python)    
 
 ---
 
