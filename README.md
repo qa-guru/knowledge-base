@@ -35,6 +35,8 @@
 6. [Продолжаем разрабатывать автотесты](https://github.com/qa-guru/knowledge-base/wiki/6.-%D0%9F%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B0%D0%B5%D0%BC-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%82%D1%8C-%D0%B0%D0%B2%D1%82%D0%BE%D1%82%D0%B5%D1%81%D1%82%D1%8B)      
 7. [Allure Reports](https://github.com/qa-guru/knowledge-base/wiki/7.-Allure-Reports-Python)     
 8. [Работаем с файлами Python](https://github.com/qa-guru/knowledge-base/wiki/8.-Работаем-с-файлами-Python)   
+9. [Jenkins. Создаем первую задачу и управляем параметрами Python](https://github.com/qa-guru/knowledge-base/wiki/9-и-10.-Jenkins.-Создаем-первую-задачу-и-управляем-параметрами-Python)    
+10. [Jenkins. Создаем первую задачу и управляем параметрами Python](https://github.com/qa-guru/knowledge-base/wiki/9-и-10.-Jenkins.-Создаем-первую-задачу-и-управляем-параметрами-Python)    
 
 ---
 
