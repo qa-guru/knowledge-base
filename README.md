@@ -38,6 +38,7 @@
 9. [Jenkins. Создаем первую задачу и управляем параметрами Python](https://github.com/qa-guru/knowledge-base/wiki/9-и-10.-Jenkins.-Создаем-первую-задачу-и-управляем-параметрами-Python)    
 10. [Jenkins. Создаем первую задачу и управляем параметрами Python](https://github.com/qa-guru/knowledge-base/wiki/9-и-10.-Jenkins.-Создаем-первую-задачу-и-управляем-параметрами-Python)    
 11. [Телеграм бот. Отправляем уведомления о результатах прохождения тестов](https://github.com/qa-guru/knowledge-base/wiki/12.-Телеграм-бот.-Отправляем-уведомления-о-результатах-прохождения-тестов)     
+12. [Pytest. Часть I](https://github.com/qa-guru/knowledge-base/wiki/12.-Pytest.-Часть-I)    
 
 ---
 
