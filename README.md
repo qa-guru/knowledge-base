@@ -43,7 +43,9 @@
 14. [Pytest. Часть II](https://github.com/qa-guru/knowledge-base/wiki/14.-Pytest.-Часть-II)    
 15. [Venv, Poetry и управление зависимостями проекта](https://github.com/qa-guru/knowledge-base/wiki/15.-Venv,-Poetry-и-управление-зависимостями-проекта)     
 16. [REST API. Пишем автотесты с Requests.](https://github.com/qa-guru/knowledge-base/wiki/16.-REST-API.-Пишем-автотесты-с-Requests)    
-17. [REST API. Часть I. Продолжаем изучать](https://github.com/qa-guru/knowledge-base/wiki/17.-REST-API.-Часть-I.-Продолжаем-изучать)   
+17. [REST API. Часть I. Продолжаем изучать](https://github.com/qa-guru/knowledge-base/wiki/17.-REST-API.-Часть-I.-Продолжаем-изучать)     
+18. [x]()    
+19. [Мобильная автоматизация #1. Разрабатываем автотесты с Browserstack](https://github.com/qa-guru/knowledge-base/wiki/19.-Мобильная-автоматизация-%231.-Разрабатываем-автотесты-с-Browserstack)   
 
 ---
 
