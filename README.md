@@ -45,7 +45,8 @@
 16. [REST API. Пишем автотесты с Requests.](https://github.com/qa-guru/knowledge-base/wiki/16.-REST-API.-Пишем-автотесты-с-Requests)    
 17. [REST API. Часть I. Продолжаем изучать](https://github.com/qa-guru/knowledge-base/wiki/17.-REST-API.-Часть-I.-Продолжаем-изучать)     
 18. [x]()    
-19. [Мобильная автоматизация #1. Разрабатываем автотесты с Browserstack](https://github.com/qa-guru/knowledge-base/wiki/19.-Мобильная-автоматизация-%231.-Разрабатываем-автотесты-с-Browserstack)   
+19. [Мобильная автоматизация #1. Разрабатываем автотесты с Browserstack](https://github.com/qa-guru/knowledge-base/wiki/19.-Мобильная-автоматизация-%231.-Разрабатываем-автотесты-с-Browserstack)     
+20. [Мобильная автоматизация #2. Разрабатываем автотесты с эмулятором Android устройства](https://github.com/qa-guru/knowledge-base/wiki/20.-Мобильная-автоматизация-%232.-Разрабатываем-автотесты-с-эмулятором-Android-устройства)    
 
 ---
 
